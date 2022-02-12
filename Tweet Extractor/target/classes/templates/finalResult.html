@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<div id="tweets">
+    <h1>Tweets</h1>
+    <div th:if="${finance != null}">
+        <h4>Finance</h4>
+        <p th:each="financeRow : ${finance}" th:text="${financeRow.getTweet()}"/>
+    </div>
+    <div th:if="${vaccine != null}">
+        <h4>Vaccine</h4>
+        <p th:each="vaccineRow : ${vaccine}" th:text="${vaccineRow.getTweet()}"/>
+    </div>
+    <div th:if="${india != null}">
+        <h4>India</h4>
+        <p th:each="indiaRow : ${india}" th:text="${indiaRow.getTweet()}"/>
+    </div>
+    <div th:if="${politics_tweets != null}">
+        <h4>politics</h4>
+        <p th:each="politicsRow : ${politics_tweets}" th:text="${politicsRow.getTweet()}"/>
+    </div>
+    <div th:if="${covid19_tweets != null}">
+        <h4>Covid 19</h4>
+        <p th:each="covid19Row : ${covid19_tweets}" th:text="${covid19Row.getTweet()}"/>
+    </div>
+    <div th:if="${election != null}">
+        <h4>Election</h4>
+        <p th:each="electionRow : ${election}" th:text="${electionRow.getTweet()}"/>
+    </div>
+</div>
+<div id="news">
+    <h1>News</h1>
+    <div th:if="${entertainment != null}">
+        <h4>Entertainment</h4>
+        <p th:each="entertainmentRow : ${entertainment}" th:text="${entertainmentRow.getHeadline()}"/>
+    </div>
+    <div th:if="${business != null}">
+        <h4>Business</h4>
+        <p th:each="businessRow : ${business}" th:text="${businessRow.getHeadline()}"/>
+    </div>
+    <div th:if="${technology != null}">
+        <h4>Technology</h4>
+        <p th:each="technologyRow : ${technology}" th:text="${technologyRow.getHeadline()}"/>
+    </div>
+    <div th:if="${politics_news != null}">
+        <h4>Politics</h4>
+        <p th:each="politicsRow : ${politics_news}" th:text="${politicsRow.getHeadline()}"/>
+    </div>
+    <div th:if="${covid19_news != null}">
+        <h4>Covid 19</h4>
+        <p th:each="covid19Row : ${covid19_news}" th:text="${covid19Row.getHeadline()}"/>
+    </div>
+    <div th:if="${sports != null}">
+        <h4>Sports</h4>
+        <p th:each="sportsRow : ${sports}" th:text="${sportsRow.getHeadline()}"/>
+    </div>
+</div>
+</body>
+</html>

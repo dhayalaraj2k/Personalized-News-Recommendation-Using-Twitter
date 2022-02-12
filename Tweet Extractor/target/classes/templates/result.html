@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>Result</h1>
+<p th:text="'id: ' + ${interestInstance.id}" />
+<p th:text="'Covid 19: ' + ${interestInstance.isCovid19()}" />
+<p th:text="'Vaccine: ' + ${interestInstance.isVaccine()}" />
+<p th:text="'Business: ' + ${interestInstance.isBusiness()}" />
+<p th:text="'Election: ' + ${interestInstance.isElection()}" />
+<p th:text="'Entertainment: ' + ${interestInstance.isEntertainment()}" />
+<p th:text="'Finance: ' + ${interestInstance.isFinance()}" />
+<p th:text="'India: ' + ${interestInstance.isIndia()}" />
+<p th:text="'Politics: ' + ${interestInstance.isPolitics()}" />
+<p th:text="'Sports: ' + ${interestInstance.isSports()}" />
+<p th:text="'Technology: ' + ${interestInstance.isTechnology()}" />
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml" xmlns:19="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Handling form submission</title>
+</head>
+<body>
+<h1>Form</h1>
+<form action="#" th:action="@{/addinterest}" th:object="${interestInstance}" method="post">
+    <p>Covid 19: </p><input type="radio" radiobutton value="true" th:field="*{covid19}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{covid19}"/> Don't Recommend</p>
+    <p>Election: </p><input type="radio" radiobutton value="true" th:field="*{election}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{election}"/> Don't Recommend</p>
+    <p>Finance: </p><input type="radio" radiobutton value="true" th:field="*{finance}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{finance}"/> Don't Recommend</p>
+    <p>India: </p><input type="radio" radiobutton value="true" th:field="*{india}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{india}"/> Don't Recommend</p>
+    <p>Vaccine: </p><input type="radio" radiobutton value="true" th:field="*{vaccine}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{vaccine}"/> Don't Recommend</p>
+    <p>Politics: </p><input type="radio" radiobutton value="true" th:field="*{politics}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{politics}"/> Don't Recommend</p>
+    <p>Entertainment: </p><input type="radio" radiobutton value="true" th:field="*{entertainment}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{entertainment}"/> Don't Recommend</p>
+    <p>Business: </p><input type="radio" radiobutton value="true" th:field="*{business}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{business}"/> Don't Recommend</p>
+    <p>Technology: </p><input type="radio" radiobutton value="true" th:field="*{technology}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{technology}"/> Don't Recommend</p>
+    <p>Sports: </p><input type="radio" radiobutton value="true" th:field="*{sports}"/> Recommend
+    <input type="radio" radiobutton value="false" th:field="*{sports}"/> Don't Recommend</p>
+<!--    <form:radiobutton path="dateInterval" value="true" cssClass="radio"/>-->
+<!--    <p>Question: <input type="text" th:field="*{questionBody}"></p>-->
+<!--    <p>Name: <input type="text" th:field="*{name}"></p>-->
+<!--    <script> document.write(new Date().toLocaleDateString()); </script>-->
+<!--    <var></var>-->
+<!--    <p>Date: <input type="text" th:field="*{askedOn}"></p>-->
+    <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
+</form>
+</body>
+</html>

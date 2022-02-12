@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up</title>
+</head>
+<body>
+<h1>Form</h1>
+<form action="#" th:action="@{/signup}" th:object="${userInstance}" method="post">
+    <!--    <p>Number: <input type="number" th:field="*{id}"></p>-->
+    <p>Name: <input type="text" th:field="*{name}"></p>
+    <p>Username: <input type="text" th:field="*{username}"></p>
+    <!--    <script> document.write(new Date().toLocaleDateString()); </script>-->
+    <!--    <var></var>-->
+    <p>Email: <input type="email" th:field="*{email}"></p>
+    <p>Password: <input type="password" th:field="*{password}"></p>
+    <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
+</form>
+</body>
+</html>

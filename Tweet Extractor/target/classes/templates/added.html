@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Added</title>
+</head>
+<body>
+<h1>Added</h1>
+<p th:text="'id: ' + ${interestInstance.id}" />
+<p th:text="'quest: ' + ${interestInstance.questionBody}" />
+<p th:text="'name: ' + ${interestInstance.name}" />
+<p th:text="'askedOn ' + ${interestInstance.askedOn}" />
+<a href="/addquestion">Submit another message</a>
+</body>
+</html>
