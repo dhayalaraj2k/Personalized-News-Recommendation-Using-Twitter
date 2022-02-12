@@ -1,0 +1,363 @@
+Abrahamic	1		
+Acolyte	1		
+Activism	1	1	
+Adhan	1		
+Adoptionism	1	1	
+Alim	1		
+Aliyah	1		
+Allah	1		
+Al-Hijra	1		
+Al-Sajdah	1		
+Amen	1		
+Amillennialism	1	1	
+Amish	1	1	
+Anabaptists	1	1	
+Angel	1		
+Angelology	1		
+Anglicanism	1	1	
+Animism	1	1	
+Anthem	1		
+Antibaptists	1	1	
+Antichrist	1	1	
+Anticult	1	1	
+Antidisestablishmentarianism	1	1	
+Antinomianism	1	1	
+Antisemitism	1	1	
+Antitrinitarians	1	1	
+Apocalypse	1		
+Apologetics	1	1	
+Apostle	1		
+Appollinarianism	1		
+Arminianism	1		
+Ashoora	1		
+Atheist	1		
+Avatar	1		
+Baptists	1	1	
+Bhagavad-Gita	1		
+Bible	1		
+Bishop	1		
+Blasphemy	1	1	
+Blуt	1		
+Caliph	1		
+Canonization	1	1	
+Catechism	1	1	
+Christ	1		
+Christadelphianism	1		
+Christian	1		
+Christology	1		
+Church	1		
+Conservative	1	1	
+Conversion	1	1	
+Creed	1	1	
+Crucifix	1		
+Crucifixion	1		
+Cult	1	1	
+Deconversion	1	1	
+Denomination	1		
+Deprogramming	1	1	
+Devil	1	1	
+Didache	1		
+Diophysite	1	1	
+Diophysitism	1	1	
+Disciples	1		
+Disfellowshipping	1	1	
+Disestablishment	1	1	
+Disestablishmentarianism	1	1	
+Docetism	1		
+Dussehra	1		
+Supercessionism	1	1	
+Easter	1		
+Ebionites	1		
+Ecumenical	1	1	
+Eid ul-Adha	1		
+Eisegesis	1	1	
+Eparchy	1		
+Eschatology	1	1	
+Eschatological	1	1	
+Esoteric	1	1	
+Essentialism	1	1	
+Euthanasia	1	1	
+Evangelical	1	1	
+Evangelize	1	1	
+Evangelist	1	1	
+Theistic	1		
+Exclusivism	1	1	
+Exegesis	1		
+Externalist	1	1	
+Unction	1	1	
+Faqih	1		
+Fatalism	1	1	
+Fatwa	1	1	
+Frum	1		
+Fundamentalist	1	1	
+God	1		
+Goddess	1		
+Gospel	1		
+Grace	1	1	
+Gurdwara	1		
+Hadith	1		
+Hajj	1		
+Hajji	1	1	
+Hallelujah	1		
+Haram	1	1	
+Heathen	1	1	
+Hijab	1		
+Hinduism	1		
+Holocaust	1	1	
+Hudud	1	1	
+Secular	1	1	
+Ihram	1		
+Imam	1		
+Impeccability	1	1	
+Imputation	1		
+Infidel	1	1	
+Intercession	1	1	
+Interfaithism	1		
+Interfaith	1		
+Interreligious	1		
+Irtidгd	1	1	
+Islam	1		
+Islamic	1		
+Islamists	1	1	
+Islamophobia	1	1	
+Isogesis	1	1	
+Khutba	1		
+Koran	1		
+Kosher	1	1	
+Krishna	1		
+Lectionary	1		
+Legalism	1	1	
+Manicheanism	1		
+Marianist	1		
+Masjid	1		
+Mennonites	1	1	
+Minaret	1		
+Minyan	1		
+Mohammed	1		
+Muhammad	1		
+Moksha	1		
+Monarchianism	1	1	
+Monolatry	1	1	
+Monism	1	1	
+Monophysite	1	1	
+Monophysitism	1	1	
+Mosque	1		
+Muslim	1		
+Murtad Fitri	1	1	
+Murtad Milli	1	1	
+Neopagan	1		
+Neotheism	1	1	
+Omnibeneficience	1		
+Pantheon	1		
+Parachurch	1		
+Parousia	1	1	
+Peccability	1	1	
+Pelagianism	1	1	
+Pentecost	1		
+Pharisees	1		
+Pluralism	1		
+Progrom	1	1	
+Polytheist	1		
+Presbyterian	1		
+Presuppositionalism	1	1	
+Preterism	1	1	
+Preterist	1	1	
+Prophet	1		
+Proselytize	1	1	
+Racism	1	1	
+Radical theologies	1	1	
+Religism	1	1	
+Religious tolerance	1	1	
+Sadaqa	1		
+Sahaba	1		
+Sajdah	1		
+Saint	1		
+Salat	1		
+Sanctification	1	1	
+Satan	1	1	
+Satanism	1		
+Christianity	1		
+Secular	1	1	
+Secularization	1	1	
+Shariah	1		
+Shaytan	1	1	
+Sheep stealing	1	1	
+Shepherding	1	1	
+Shema	1		
+Shunning	1	1	
+Sikhism	1		
+Soul	1		
+Soul Freedom	1	1	
+forcing your religion	1	1	
+Soul sleep	1	1	
+Surah	1		
+Syncretistic Religion	1		
+Systematic theology	1		
+Synagogue	1		
+Theist	1		
+Theocracy	1	1	
+Theodicy	1	1	
+conversion oppt	1	1	
+missionaries learn	1	1	
+Unbeliever	1		
+Wiccan	1		
+Wicca	1		
+Worship	1		
+Wrath	1	1	
+Xylolaters	1	1	
+vulture	1	1	1
+vultures	1	1	1
+scavenging	1	1	
+cult	1	1	
+cults	1	1	
+evangelist	1	1	
+Jesus salesmen	1	1	
+POLESHIFT	1	1	
+Evangelical	1	1	
+bigots	1	1	
+bigot	1	1	
+islamophobe	1	1	
+islamic radical	1	1	
+islamic radicals	1	1	
+JesusTard	1	1	
+JesusTards	1	1	
+Prophet	1		
+khilafah	1		
+Harvest Soul	1	1	
+harvest Xtian souls	1	1	
+Christ bad name	1	1	
+Christianity Shiz	1	1	
+soul harvester	1	1	
+soul harvesters	1	1	
+opportunity to convert	1	1	1
+Conversion before helping	1	1	1
+Scavengers	1	1	
+soul harvesting	1	1	
+hungry vulture	1	1	1
+conversion intent	1	1	1
+secular party	1		
+communal agenda	1	1	
+Soul trading	1	1	
+surfarishi	1	1	
+separatist	1	1	
+separatists	1	1	
+jihadi	1	1	
+jihadis	1	1	
+muhammdan pig	1	1	
+muhammdan pigs	1	1	
+paki	1	1	
+pakis	1	1	
+muhammad's piglet	1	1	
+muhammad's piglets	1	1	
+urinate shiva	1	1	
+urinate shiva's	1	1	
+piss temple	1	1	
+jihadi traitor	1	1	
+jihadi khan	1	1	
+pedo Mohd	1	1	
+kick pedo mohd	1	1	
+jihadi moron	1	1	
+soul harvesters	1	1	
+muslim pig	1	1	
+muslim pigs	1	1	
+psycho drown	1	1	
+muslim jihadi	1	1	
+muhammad's pig	1	1	
+pig eating muslim	1	1	
+pig eat muslim	1	1	
+islamic neanderthal	1	1	1
+islamic neanderthals	1	1	1
+religion of peace	1	1	
+religion po peace	1	1	
+saffron terrorist	1	1	
+jihad shit	1	1	
+islamic terrorist pig	1	1	
+islamic slogan	1	1	
+jihadist	1	1	
+anti-hindu	1	1	
+extremist	1	1	
+religion of piece	1	1	
+secilar folk	1	1	
+secilar folks	1	1	
+muslim pig	1	1	
+islamic jehad	1	1	
+sickular mafia	1	1	
+preacher prophet	1	1	
+islamic jihadist	1	1	
+libtards	1	1	
+libtard	1	1	
+secularist	1	1	
+missionary vulture	1	1	1
+missionary vultures	1	1	1
+scavenging	1	1	
+scavenge	1	1	
+soul harvest	1	1	
+soul harvesting	1	1	
+convert people	1	1	1
+convert ppl	1	1	1
+opportunity conversion	1	1	1
+evangelist	1	1	
+jesus salesmen	1	1	
+poleshift jesus	1	1	
+christian fundamentalist	1	1	
+christian fundamentalists	1	1	
+missionary swarm	1	1	
+conversion loot	1	1	
+conversion oppt	1	1	
+christian predator	1	1	
+missionary try convert	1	1	
+vulture missionary	1	1	
+vulture missionaries	1	1	
+sick twisted presstitutes	1	1	
+twist presstitutes	1	1	
+sick twist presstitutes	1	1	
+evangelical vulture	1	1	
+force religion	1	1	
+forcing religion	1	1	
+christian conversion	1	1	
+christian conversion missionary	1	1	
+conversion missionary	1	1	
+conversion missionary mafia	1	1	
+missionary mafia	1	1	
+sell jesus	1	1	
+incumbent muslim	1	1	
+opportunistic missionary	1	1	
+opportunistic missionaries	1	1	
+opportunity conversion	1	1	
+opportunity conversions	1	1	
+blot humanity	1	1	1
+jihadi element	1	1	
+jihadi elements	1	1	
+evangelist	1	1	
+twisted presstitutes	1	1	
+christian evangelist	1	1	
+christian bigotry	1	1	
+sickular journos	1	1	
+hindutva agenda	1	1	
+harvest soul	1	1	
+missionaries 2 convert	1	1	
+missionary 2 convert	1	1	
+convert victim	1	1	1
+mullah	1	1	
+mullahs	1	1	
+harvest Xtian soul	1	1	
+harvest Xtian souls	1	1	
+jesus fucktards	1	1	
+christianity shiz	1	1	
+soul harvester	1	1	
+soul harvesters	1	1	
+missionary baptize	1	1	
+missionary baptized	1	1	
+sell jesus	1	1	
+christian evangelist	1	1	
+christian evangelists	1	1	
+missionary start conversion	1	1	
+evangelist poachers	1	1	
+abrahamic religion chutiyas	1	1	
+communal agenda	1	1	
+christian ajent	1	1	
+christian ajents	1	1	
+soul trading	1	1	
+jihadi's	1	1	
+religion pimp	1	1	
+religion pimps	1	1	
