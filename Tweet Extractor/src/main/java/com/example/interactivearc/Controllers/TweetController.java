@@ -43,8 +43,8 @@ public class TweetController {
             int count=1;
             String searchString = "from:the_hindu OR from:IndianExpress OR from:IndiaToday OR from:EconomicTimes OR " +
                     "from:TOIIndiaNews OR from:livemint OR from:ians_india OR from:ani_digital OR from:TimesNow OR " +
-                    "from:ndtv";
-            String bearerToken = "AAAAAAAAAAAAAAAAAAAAAFAwNAEAAAAAFJlVjEJ1%2Fgw9c0msSfKcRWYlh74%3DYIKlhyUVXcOMZmvvDkmw7QZqnducuX7ivCWYptZr52qaKrqHPD";
+                    "from:ndtv"; // You can change the twitter handles as per your need
+            String bearerToken = ""; //PLACE YOUR TWITTER API KEY HERE
             String searchResponse = null;
             HttpClient httpClient = HttpClients.custom().setDefaultRequestConfig(RequestConfig.custom().setCookieSpec(CookieSpecs.STANDARD).build()).build();
             URIBuilder uriBuilder = new URIBuilder("https://api.twitter.com/2/tweets/search/recent");
